@@ -1,0 +1,10 @@
+com	localhost
+edu	localhost
+gov	localhost
+mil	localhost
+net	localhost
+org	localhost
+cn	localhost
+uk	localhost
+jp	localhost
+us	localhost
